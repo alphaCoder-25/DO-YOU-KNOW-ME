@@ -1,4 +1,4 @@
-# DO-YOU-KNOW-ME-QUIZ
+# DO-YOU-KNOW-ME
 A node.js CLI Quiz app on "How well do you know me"!
 
 Hosted on Repl.it
