@@ -3,7 +3,7 @@ const chalk = require('chalk');
 
 const userName = readlineSync.question(chalk.yellow("What is your Name? "));
 
-console.log("\nWelcome " + chalk.yellowBright.bold(userName, "! ") + "to 'My Quiz'. \nLet's see How well " +  chalk.bgRedBright.underline.bold("DO YOU KNOW ME."));
+console.log("\nWelcome " + chalk.yellowBright.bold(userName, "! ") + "to 'My Quiz'. \nLet's see How well " +  chalk.bgRed.underline.bold("DO YOU KNOW ME."));
 console.log(chalk.yellowBright.italic.bold("\nOK..!! Let's begin the Quiz"));
 console.log("      ----------------------    ");
 let score = 0;
